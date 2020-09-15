@@ -1,4 +1,4 @@
-# Everything Burns! - Joker
+# Everything Burns! - **Joker**
 
 
 ![](/joker.png)
